@@ -2,6 +2,6 @@ Bu Web projesi Marmara Üniversitesi Bilgisayar Programcılığı bölümünden 
 
 Geliştiriciler;
 
-  • Enes Berkant Özer    https://github.com/MustafaSametCan
+  • Enes Berkant Özer    https://github.com/enesberkantozer
   • Mustafa Samet Can    https://github.com/MustafaSametCan
   • Doğukan Vay
