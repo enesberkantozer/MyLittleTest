@@ -1,4 +1,4 @@
 # Geliştiriciler
-- [Enes Berkant Özer](https://github.com/enesberkantozer){:target="_blank"}
-- [Mustafa Samet Can](https://github.com/MustafaSametCan){:target="_blank"}
+- [Enes Berkant Özer](https://github.com/enesberkantozer "Enes Berkant Özer Github Profile")
+- [Mustafa Samet Can](https://github.com/MustafaSametCan "Mustafa Samet Can Github Profile")
 - Doğukan Vay
